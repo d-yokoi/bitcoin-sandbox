@@ -29,5 +29,9 @@
     "ts-jest": "^26.2.0",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "bitcoinjs-lib": "5.1.10",
+    "bitcoinjs-message": "2.1.1"
   }
 }
